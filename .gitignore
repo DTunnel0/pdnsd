@@ -25,3 +25,4 @@ Makefile
 /src/test/random
 /src/test/tping
 TAGS
+build
